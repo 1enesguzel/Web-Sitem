@@ -573,6 +573,7 @@ section,
 .hero .container {
   position: relative;
   z-index: 3;
+  margin-top: 100px; /* YAZIYI AŞAĞI KAYDIRIR */
 }
 
 .hero h2 {
